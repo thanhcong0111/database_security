@@ -1,0 +1,22 @@
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\bin\Debug\net8.0-windows\Login Form.exe
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\bin\Debug\net8.0-windows\Login Form.deps.json
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\bin\Debug\net8.0-windows\Login Form.runtimeconfig.json
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\bin\Debug\net8.0-windows\Login Form.dll
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\bin\Debug\net8.0-windows\Login Form.pdb
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\obj\Debug\net8.0-windows\Login Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\obj\Debug\net8.0-windows\Login Form.AssemblyInfoInputs.cache
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\obj\Debug\net8.0-windows\Login Form.AssemblyInfo.cs
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\obj\Debug\net8.0-windows\Login Form.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\obj\Debug\net8.0-windows\Login Form.dll
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\obj\Debug\net8.0-windows\refint\Login Form.dll
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\obj\Debug\net8.0-windows\Login Form.pdb
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\obj\Debug\net8.0-windows\Login Form.genruntimeconfig.cache
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\obj\Debug\net8.0-windows\ref\Login Form.dll
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\obj\Debug\net8.0-windows\Login Form.csproj.AssemblyReference.cache
+C:\Users\Ngoc Dieu\Downloads\BAO MAT CSDL\Login Form\obj\Debug\net8.0-windows\Login Form.csproj.Up2Date
