@@ -1,5 +1,5 @@
 # database_security
------Many projects of Database Security subject in HCMUS will be exploited.-----
+-----Many labs of Database Security subject in HCMUS will be exploited.-----
 
 - Lab 2: The decentralization in MySQL
 
