@@ -3,6 +3,10 @@ Some labs in Database Security subject in HCMUS will be exploited. They are abou
 
 ### Lab 2: The decentralization in MySQL
 
+Decentralize roles and privileges to a special account. If you don't have permission, the screen will alert to you:
+
+![Screenshot 2024-07-24 213800](https://github.com/user-attachments/assets/d6f7cf94-3eac-4f15-9bb1-44db1ffacfcb)
+
 ### Lab 3: The access control method with encrypted datas in MySQL databases
 
 - With personal lab:
