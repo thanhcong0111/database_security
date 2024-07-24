@@ -11,7 +11,7 @@ It includes decentralization of reading, updating, inserting, updating, etc. in 
 
 ### Lab 3: The access control method with encrypted datas in MySQL databases
 
-- With personal lab:
+- With personal lab: control the user accessing if they exist or not
 
 The password column was hashed by *MD5*, and the salary column was encrypted by *AES256*. Then write an application to control user access.
 
@@ -31,3 +31,8 @@ However, if you have permission to access SQL Profiler, the information can be l
 
 ### Lab 4: The access control method with encrypted datas before insert to database in MySQL
 
+It is almost identical to Lab 3, but with data that has been encrypted before being inserted into the database layer, it also means that encryption will be done between the backend layer and the database.
+
+- With personal lab: control the user accessing if they exist or not
+
+![image](https://github.com/user-attachments/assets/5f6538dc-d467-4cbd-8079-0e465e8a5283)
