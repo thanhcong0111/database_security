@@ -15,7 +15,7 @@ The password column was hashed by *MD5*, and the salary column was encrypted by 
 
 ![Screenshot 2024-07-24 212747](https://github.com/user-attachments/assets/be68f245-0f86-4c60-b5e2-894e2924250c)
 
-The information will be encrypted and cannot see if you don't have ascapsulation. 
+The information will be encrypted and cannot see if you don't have privileges. 
 
 ![Screenshot 2024-07-24 213141](https://github.com/user-attachments/assets/4cbb7c90-b851-4078-bddb-c7fd5322f9fe)
 
