@@ -1,7 +1,7 @@
 # Database Security
 Some labs in Database Security subject in HCMUS will be exploited. They are about decentralization, access control, hash functions, symmetric keys, asymmetric keys, and so forth.
 
-### Lab 2: The decentralization in MySQL
+### Lab 2: The decentralization  MySQL
 
 Decentralize roles and privileges to a special account. If you don't have permission, the screen will alert to you:
 
@@ -9,7 +9,7 @@ Decentralize roles and privileges to a special account. If you don't have permis
 
 It includes decentralization of reading, updating, inserting, updating, etc. in the whole table or specific columns. At the same time, store procedures are required to perform some specific tasks.
 
-### Lab 3: The access control method with encrypted datas in MySQL databases
+### Lab 3: The access control method with encrypted data in MySQL databases
 
 - With personal lab: control the user accessing if they exist or not
 
@@ -29,7 +29,7 @@ However, if you have permission to access SQL Profiler, the information can be l
 
 ![Screenshot 2024-07-24 213448](https://github.com/user-attachments/assets/1e86f3a9-f44a-4a08-bda2-fd2f34169940)
 
-### Lab 4: The access control method with encrypted datas before insert to database in MySQL
+### Lab 4: The access control method with encrypted data before inserting it into the database in MySQL
 
 It is almost identical to Lab 3, but with data that has been encrypted before being inserted into the database layer, it also means that encryption will be done between the backend layer and the database.
 
