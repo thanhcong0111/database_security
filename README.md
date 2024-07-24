@@ -17,7 +17,7 @@ The password column was hashed by *MD5*, and the salary column was encrypted by 
 
 ![Screenshot 2024-07-24 211503](https://github.com/user-attachments/assets/71782a44-f26a-454d-911c-de52a075e0ad)
 
-- With a group lab, there will be more columns than in the former lab. It's also got access control, like in a in a personal lab, where the password column was hashed by *SHA1* and the salary column was encrypted by *RSA*. In addition, it allows a teacher to modify the information they hold.
+- With a group lab, there will be more columns than in the former lab. It's also got access control, like in a in a personal lab, where the password column was hashed by *SHA1* and the salary and score columns was encrypted by *RSA*. In addition, it allows a teacher to modify the information they hold.
 
 ![Screenshot 2024-07-24 212747](https://github.com/user-attachments/assets/be68f245-0f86-4c60-b5e2-894e2924250c)
 
@@ -36,3 +36,13 @@ It is almost identical to Lab 3, but with data that has been encrypted before be
 - With personal lab: control the user accessing if they exist or not
 
 ![image](https://github.com/user-attachments/assets/5f6538dc-d467-4cbd-8079-0e465e8a5283)
+
+- With a group lab, there will be more columns than in the former lab. It's also got access control, like in a in a personal lab, where the password column was hashed by *SHA1* and the salary and score columns was encrypted by *RSA*. In addition, it allows a teacher to modify the information they hold.
+
+![image](https://github.com/user-attachments/assets/eeeb37a1-384f-40b7-8ab4-13334a86ba91)
+
+The information will be encrypted and cannot see if you don't have privileges. Although you have permission to access SQL Profiler, the information cannot be leaked.
+
+![image](https://github.com/user-attachments/assets/d9734d8b-7d93-43ef-b7e9-eaa3bf2506c1)
+
+Thanks to Dao Thi Ngoc Giau and Kien Dinh My Hanh - members of my teamwork assisted me in finishing this assignments.
