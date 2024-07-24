@@ -46,3 +46,5 @@ The information will be encrypted and cannot see if you don't have privileges. A
 ![image](https://github.com/user-attachments/assets/d9734d8b-7d93-43ef-b7e9-eaa3bf2506c1)
 
 Thanks to Dao Thi Ngoc Giau and Kien Dinh My Hanh - members of my teamwork assisted me in finishing this assignments.
+
+For more information, you can also read the report (Vietnamese version) to understand this session.
