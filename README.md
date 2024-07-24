@@ -7,7 +7,7 @@ Decentralize roles and privileges to a special account. If you don't have permis
 
 ![Screenshot 2024-07-24 213800](https://github.com/user-attachments/assets/d6f7cf94-3eac-4f15-9bb1-44db1ffacfcb)
 
-![Screenshot 2024-07-24 213800](https://github.com/user-attachments/assets/5a024699-891b-451d-9f65-af50a23a539c)
+It includes decentralization of reading, updating, inserting, updating, etc. in the whole table or specific columns. At the same time, store procedures are required to perform some specific tasks.
 
 ### Lab 3: The access control method with encrypted datas in MySQL databases
 
