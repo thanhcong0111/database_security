@@ -7,7 +7,7 @@ Decentralize roles and privileges to a special account. If you don't have permis
 
 ![Screenshot 2024-07-24 213800](https://github.com/user-attachments/assets/d6f7cf94-3eac-4f15-9bb1-44db1ffacfcb)
 
-It includes decentralization of reading, updating, inserting, updating, etc. in the whole table or specific columns. At the same time, store procedures are required to perform some specific tasks.
+It includes decentralization of reading, updating, inserting, etc. in the whole table or specific columns. At the same time, store procedures are required to perform some specific tasks.
 
 ### Lab 3: The access control method with encrypted data in MySQL databases
 
@@ -37,7 +37,7 @@ It is almost identical to Lab 3, but with data that has been encrypted before be
 
 ![image](https://github.com/user-attachments/assets/5f6538dc-d467-4cbd-8079-0e465e8a5283)
 
-- With a group lab, there will be more columns than in the former lab. It's also got access control, like in a in a personal lab, where the password column were hashed by *SHA1* and the salary and score columns was encrypted by *RSA*. In addition, it allows a teacher to modify the information they hold.
+- With a group lab, there will be more columns than in the former lab. It's also got access control, like in a in a personal lab, where the password column were hashed by *SHA1* and the salary and score columns was encrypted by *RSA*. Therefore, it need to build a *RSA* class to encrypt data before inserting to database. In addition, it allows a teacher to modify the information they hold.
 
 ![image](https://github.com/user-attachments/assets/eeeb37a1-384f-40b7-8ab4-13334a86ba91)
 
